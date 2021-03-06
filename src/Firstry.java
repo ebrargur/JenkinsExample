@@ -3,7 +3,7 @@ public class Firstry {
 // write your code here
         for (int i = 0; i <4 ; i++) {
             System.out.println("Hello batch");
-            Thread.sleep(2000);
+            Thread.sleep(1000);
 
         }
     }
